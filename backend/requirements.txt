@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+Flask-SQLAlchemy
+Flask-Migrate
+python-dotenv
+requests
+pandas
+psycopg2-binary
+google-generativeai
+PyJWT
+bcrypt
