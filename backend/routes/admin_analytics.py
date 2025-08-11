@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 
 admin_bp = Blueprint('admin_bp', __name__)
 
-# Note: Add admin authentication decorator in production
+
 @admin_bp.route('/analytics/overview', methods=['GET'])
 def get_system_analytics():
     """Get system-wide analytics for admin dashboard"""
@@ -54,7 +54,7 @@ def get_system_analytics():
             if brand in query_lower:
                 brand_mentions[brand] += 1
     
-    # Daily chat volume (last 7 days)
+
     daily_chats = []
     for i in range(7):
         date = datetime.utcnow() - timedelta(days=i)
