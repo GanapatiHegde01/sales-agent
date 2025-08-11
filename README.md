@@ -1,4 +1,4 @@
-# AI Sales Agent
+# Inquiro AI
 
 An intelligent sales assistant application that helps customers find products, get warranty information, discover offers, and make informed purchasing decisions through natural language conversations.
 
@@ -248,9 +248,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Ganapati Hegde**
 - GitHub: [@GanapatiHegde01](https://github.com/GanapatiHegde01)
-- Project: [Sales-agent](https://github.com/GanapatiHegde01/Sales-agent)
+- Project: [Inquiro AI](https://github.com/GanapatiHegde01/Sales-agent)
 
-© 2024 Ganapati Hegde. All rights reserved.
+© 2025 Ganapati Hegde. All rights reserved.
 
 ## 🆘 Troubleshooting
 
